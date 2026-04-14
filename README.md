@@ -51,7 +51,7 @@ o	Designed KPI cards for key metrics
 •	Most content was added to the platform after 2015, showing recent expansion
 •	Family, Animation, and Adventure are the most dominant genres
 •	The United States contributes the highest number of shows
-•	Certain ratings like TV-G and PG dominate, indicating family-friendly content
+•	Certain ratings like G and PG dominate, indicating family-friendly content
 •	Content addition peaked in specific years, indicating platform growth phases
 
 6. Conclusion
